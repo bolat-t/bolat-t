@@ -1,12 +1,12 @@
 ## Introducing Myself
 
-Hello, I'm Bolat. Data and analytics engineer working end-to-end across the stack — ingesting messy public data, modelling it into something trustworthy, and shipping the result as a dashboard, a model, or an API that runs on its own schedule.
+Hello, I'm Bolat. Data and analytics engineer working end-to-end across the stack — ingesting messy data, modelling it into something trustworthy, and shipping the result as a dashboard, a model, or an API that runs on its own schedule.
 
 - Building and orchestrating data pipelines in Python and SQL.
-- Dimensional modelling with dbt — tested, documented, and version-controlled.
-- Lakehouse engineering on Databricks using Delta Lake and Unity Catalog.
+- Dimensional modelling & Dash boarding with PowerBI and Tableau
+- Lakehouse engineering on Databricks, Snowflake & Fabric.
 - Retrieval-augmented search and ML models tracked with MLflow.
-- Daily automated refreshes with GitHub Actions.
+- Fine tuning, evaluating & deploying ML Models on various endpoints.
 
 ### Projects
 
