@@ -1,12 +1,14 @@
+![Bolat Tulekov — Data Analyst, BI Engineer, ML Engineer](assets/banner.jpg)
+
 ## Introducing Myself
 
 Hello, I'm Bolat. Data and analytics engineer working end-to-end across the stack — ingesting messy data, modelling it into something trustworthy, and shipping the result as a dashboard, a model, or an API that runs on its own schedule.
 
 - Building and orchestrating data pipelines in Python and SQL.
-- Dimensional modelling & Dash boarding with PowerBI and Tableau
-- Lakehouse engineering on Databricks, Snowflake & Fabric.
+- Dimensional modelling and dashboarding with Power BI and Tableau.
+- Lakehouse engineering on Databricks, Snowflake, and Fabric.
 - Retrieval-augmented search and ML models tracked with MLflow.
-- Fine tuning, evaluating & deploying ML Models on various endpoints.
+- Fine-tuning, evaluating, and deploying ML models to various endpoints.
 
 ### Projects
 
